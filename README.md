@@ -12,6 +12,8 @@ __Client_Requirements: Create a docker container with Azure-CLI, WGET, CURL and 
 ------------
 Demo
 ------------
+Using the Docker Container..
+
 1_ Execute the script "c1fss-azure.sh" and follow the instructions;
 
 2_ Use the options 1 to prepare the demo environment. This command will check if the StorageAccounts are accessible and ready for the tests;
