@@ -26,4 +26,4 @@ Using the Docker Container..
 
 6_ Check (maybe n times) the Post-Scan Actions result, using the option 5. It should demonstrate the malicious files being moved from BaseDirectory to the NormalFiles StorageAccount;
 
-7_ Use the option 7 to Exit and cleanup all the changes done during the tests.
+7_ Use the option 6 to Exit and cleanup all the changes done during the tests.
